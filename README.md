@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @idealidler
+- 👋 Hi, I’m Akshay Jain
 - 👀 I’m interested in exploring data and making machine learning models
 - 🌱 I’m currently learning different ways to effectively visualize data in python
 -
