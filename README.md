@@ -1,4 +1,4 @@
- am a highly motivated and results-driven data professional with a strong background in data acquisition, machine learning, and natural language processing. My education includes a Master of Science in Business Analytics from Drexel University and a Bachelor of Engineering in Electronics & Telecommunications from the University of Pune.
+I am a highly motivated and results-driven data professional with a strong background in data acquisition, machine learning, and natural language processing. My education includes a Master of Science in Business Analytics from Drexel University and a Bachelor of Engineering in Electronics & Telecommunications from the University of Pune.
 
 I have extensive experience in programming languages such as Python, SQL, R, C, and C++ and tools and libraries such as Alteryx, TensorFlow, and XGBoost. These skills have enabled me to develop accurate and effective solutions for data analysis projects.
 
