@@ -72,6 +72,6 @@ I am a Data & Analytics Professional passionate about transforming complex data 
 ### 📫 Get in Touch
 
 <p align="left">
-<a href="https://linkedin.com/in/akshayjain128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="mailto:akshayjain128@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your.email@example.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshayjain128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshayjain128" height="30" width="40" /></a>
+<a href="mailto:akshayjain128@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="akshayjain128@gmail.com height="30" width="40" /></a>
 </p>
