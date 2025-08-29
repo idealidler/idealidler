@@ -46,23 +46,29 @@ I am a Data & Analytics Professional passionate about transforming complex data 
 
 ### 🚀 Featured Projects
 
-<table>
+<table border="0" cellpadding="10">
 <tr>
-<td width="50%">
-  ### ☕ Starbucks Social Media Analysis
+<td width="50%" valign="top">
+  <h3>☕ Starbucks Social Media Analysis</h3>
   <p>An in-depth analysis of social media trends related to Starbucks. This project demonstrates my ability to process unstructured data, identify key themes, and visualize findings in Power BI to provide strategic brand insights.</p>
-  <a href="https://github.com/idealidler/Starbucks-Drink-Recommendation">Repo Link</a> </td>
-<td width="50%">
-  ### 🤖 AI-Powered Resume Chatbot
+  <br>
+  <a href="https://github.com/idealidler/Starbucks-Drink-Recommendation"><strong>View Repository &rarr;</strong></a>
+</td>
+<td width="50%" valign="top">
+  <h3>🤖 AI-Powered Resume Chatbot</h3>
   <p>A professional AI chatbot trained on my resume and career history. This project showcases my skills in using AI tools to create innovative, value-added solutions that go beyond traditional data analytics.</p>
-  <a href="https://github.com/idealidler/my-portfolio">Repo Link</a> </td>
+  <br>
+  <a href="https://github.com/idealidler/my-portfolio"><strong>View Repository &rarr;</strong></a>
+</td>
 </tr>
 <tr>
-<td width="50%">
-  ### 👗 E-commerce Review Analysis
+<td width="50%" valign="top">
+  <h3>👗 E-commerce Review Analysis</h3>
   <p>Analyzed over 23,000 customer reviews for a women's clothing e-commerce site using SQL and Power BI. The goal was to identify key drivers of customer satisfaction and provide actionable recommendations for product and service improvements.</p>
-  <a href="https://github.com/idealidler/E-Commerce-Customer-Purchase-Analysis">Repo Link</a> </td>
-<td width="50%">
+  <br>
+  <a href="https://github.com/idealidler/E-Commerce-Customer-Purchase-Analysis"><strong>View Repository &rarr;</strong></a>
+</td>
+<td width="50%" valign="top">
   </td>
 </tr>
 </table>
