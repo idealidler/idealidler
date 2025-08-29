@@ -79,9 +79,9 @@ I am a Data & Analytics Professional passionate about transforming complex data 
 
 <p align="left">
   <a href="https://linkedin.com/in/akshayjain128" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Reach out to me on LinkedIn">
   </a>
   <a href="mailto:akshayjain128@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email">
   </a>
 </p>
