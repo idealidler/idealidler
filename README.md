@@ -55,8 +55,8 @@ I am a Data & Analytics Professional passionate about transforming complex data 
   <a href="https://github.com/idealidler/Starbucks-Drink-Recommendation"><strong>View Repository &rarr;</strong></a>
 </td>
 <td width="50%" valign="top">
-  <h3>🤖 AI-Powered Resume Chatbot</h3>
-  <p>A professional AI chatbot trained on my resume and career history. This project showcases my skills in using AI tools to create innovative, value-added solutions that go beyond traditional data analytics.</p>
+  <h3>🤖 H1B Wage Level Map</h3>
+  <p>An interactive geospatial intelligence tool designed to help H-1B applicants navigate the new FY 2027 Weighted Selection Rule. It combines official Department of Labor (DOL) wage data with a massive database of historical company filings..</p>
   <br>
   <a href="https://github.com/idealidler/my-portfolio"><strong>View Repository &rarr;</strong></a>
 </td>
