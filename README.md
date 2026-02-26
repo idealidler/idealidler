@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Akshay Jain 👋
-**Analytics Engineer @ Holman | Data & Frontend Architect**
+**Analytics Engineer | Data & Frontend Architect**
 
 </div>
 
