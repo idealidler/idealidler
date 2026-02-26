@@ -1,10 +1,11 @@
 <div align="center">
 
 # Hi, I'm Akshay Jain 👋
+**Analytics Engineer @ Holman | Data & Frontend Architect**
 
 </div>
 
-I am a Data & Analytics Professional passionate about transforming complex data into actionable business strategy. My goal is to move beyond standard reporting to become a trusted partner who scopes projects, leads agile workflows, and delivers strategic recommendations that drive tangible value. I specialize in leveraging Power BI, SQL, and Python to not only answer questions but to uncover the *right questions to ask*.
+I am a Data & Analytics Professional passionate about transforming complex data into actionable business strategy. My goal is to move beyond standard reporting to become a trusted partner who scopes projects, leads agile workflows, and delivers strategic recommendations that drive tangible value. I specialize in leveraging Power BI, SQL, Python, and React to not only answer questions but to uncover the *right questions to ask*.
 
 ---
 
@@ -24,8 +25,9 @@ I am a Data & Analytics Professional passionate about transforming complex data 
 </p>
 
 <p align="left">
-  <strong>Languages & Automation:</strong><br>
+  <strong>Development, Languages & Automation:</strong><br>
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
   <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Fabric-333333?style=for-the-badge&logo=microsoft&logoColor=white"></a>
 </p>
 
@@ -35,41 +37,38 @@ I am a Data & Analytics Professional passionate about transforming complex data 
   <img src="https://img.shields.io/badge/GitHub%20Copilot-black?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<p align="left">
-  <strong>Methodologies & Communication:</strong><br>
-  <img src="https://img.shields.io/badge/Agile-42526e?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Project%20Scoping-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Stakeholder%20Communication-darkred?style=for-the-badge">
-</p>
-
 ---
 
 ### 🚀 Featured Projects
 
-<table border="0" cellpadding="10">
+<table border="0" cellpadding="15">
 <tr>
 <td width="50%" valign="top">
-  <h3>☕ Starbucks Social Media Analysis</h3>
-  <p>An in-depth analysis of social media trends related to Starbucks. This project demonstrates my ability to process unstructured data, identify key themes, and visualize findings in Power BI to provide strategic brand insights.</p>
+  <h3>💼 Net Worth Tracker</h3>
+  <p>A professional-grade, React-based financial dashboard designed for dynamic ledger management. Features secure Google authentication, encrypted snapshot tracking, and real-time historical trend analytics.</p>
   <br>
-  <a href="https://github.com/idealidler/Starbucks-Drink-Recommendation"><strong>View Repository &rarr;</strong></a>
+  <a href="https://github.com/idealidler/net-worth-tracker"><strong>View Repository &rarr;</strong></a>
 </td>
 <td width="50%" valign="top">
   <h3>🤖 H1B Wage Level Map</h3>
-  <p>An interactive geospatial intelligence tool designed to help H-1B applicants navigate the new FY 2027 Weighted Selection Rule. It combines official Department of Labor (DOL) wage data with a massive database of historical company filings..</p>
+  <p>An interactive geospatial intelligence tool that cross-references official Department of Labor wage data with historical company filings to help H-1B applicants navigate the FY 2027 Weighted Selection Rule.</p>
   <br>
-  <a href="https://github.com/idealidler/my-portfolio"><strong>View Repository &rarr;</strong></a>
+  <a href="https://github.com/idealidler/h1b-wage-map"><strong>View Repository &rarr;</strong></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h3>👗 E-commerce Review Analysis</h3>
-  <p>Analyzed over 23,000 customer reviews for a women's clothing e-commerce site using SQL and Power BI. The goal was to identify key drivers of customer satisfaction and provide actionable recommendations for product and service improvements.</p>
+  <h3>☕ Starbucks Social Media Analysis</h3>
+  <p>An advanced NLP and Power BI pipeline processing unstructured social data. Designed to identify overarching brand themes, customer sentiment, and extract strategic marketing insights.</p>
+  <br>
+  <a href="https://github.com/idealidler/Starbucks-Drink-Recommendation"><strong>View Repository &rarr;</strong></a>
+</td>
+<td width="50%" valign="top">
+  <h3>👗 Commercial Shopping (E-Commerce)</h3>
+  <p>An end-to-end SQL and Power BI analysis evaluating 23,000+ customer reviews. Identified key drivers of customer satisfaction to provide actionable recommendations for product optimization.</p>
   <br>
   <a href="https://github.com/idealidler/E-Commerce-Customer-Purchase-Analysis"><strong>View Repository &rarr;</strong></a>
 </td>
-<td width="50%" valign="top">
-  </td>
 </tr>
 </table>
 
