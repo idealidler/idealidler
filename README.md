@@ -61,7 +61,7 @@ I am a Data & Analytics Professional passionate about transforming complex data 
   <h3>☕ Starbucks Social Media Analysis</h3>
   <p>An advanced NLP and Power BI pipeline processing unstructured social data. Designed to identify overarching brand themes, customer sentiment, and extract strategic marketing insights.</p>
   <br>
-  <a href="https://github.com/idealidler/Starbucks-Drink-Recommendation"><strong>View Repository &rarr;</strong></a>
+  <a href="https://github.com/idealidler/Studying-Starbucks-through-the-lens-of-social-media"><strong>View Repository &rarr;</strong></a>
 </td>
 <td width="50%" valign="top">
   <h3>👗 Commercial Shopping (E-Commerce)</h3>
