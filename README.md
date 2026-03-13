@@ -64,10 +64,10 @@ I am a Data & Analytics Professional passionate about transforming complex data 
   <a href="https://github.com/idealidler/Studying-Starbucks-through-the-lens-of-social-media"><strong>View Repository &rarr;</strong></a>
 </td>
 <td width="50%" valign="top">
-  <h3>👗 Commercial Shopping (E-Commerce)</h3>
-  <p>An end-to-end SQL and Power BI analysis evaluating 23,000+ customer reviews. Identified key drivers of customer satisfaction to provide actionable recommendations for product optimization.</p>
+  <h3>GitDecode</h3>
+  <p>FastAPI service that fetches public GitHub activity, computes deterministic engineering signals, and returns recruiter-friendly summaries.</p>
   <br>
-  <a href="https://github.com/idealidler/E-Commerce-Customer-Purchase-Analysis"><strong>View Repository &rarr;</strong></a>
+  <a href="https://github.com/idealidler/gitdecode-backend"><strong>View Repository &rarr;</strong></a>
 </td>
 </tr>
 </table>
